@@ -1,2 +1,4 @@
 git練習
 Study workflow
+・git add
+・git commit
